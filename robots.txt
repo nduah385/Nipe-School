@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nduah89.github.io/nipe-international.school/sitemap.xml
